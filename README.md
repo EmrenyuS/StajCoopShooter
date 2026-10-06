@@ -4,3 +4,9 @@
 
 # StajCoopShooter
 Staj Steam Coop Shooter Game Project
+
+Steam Friend Invite Menu :
+
+<p align="center">
+  <img src="./Liste.png" alt="StajCoopShooter" width="900">
+</p>
