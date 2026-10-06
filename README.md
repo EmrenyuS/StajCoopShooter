@@ -1,6 +1,6 @@
+<p align="center">
+  <img src="./Oyun.png" alt="StajCoopShooter" width="900">
+</p>
+
 # StajCoopShooter
 Staj Steam Coop Shooter Game Project
-
-<p align="center">
-  <img src="./oyun.png" alt="Co-op Shooter" width="900">
-</p>
